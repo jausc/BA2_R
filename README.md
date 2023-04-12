@@ -11,7 +11,7 @@ Die folgenden Voraussetzungen konnten nicht in das Repository aufgenommen werden
 - R (https://www.r-project.org/)
 
 Weiters werden folgende R-Pakete benötigt: 
-- FinTS (https://cloud.r-project.org/web/packages/FinTS/index.html)
+- FinTS (https://cran.r-project.org/web/packages/FinTS/index.html)
 - forecast (https://cran.r-project.org/web/packages/forecast/index.html)
 - ICglm (https://cran.r-project.org/web/packages/ICglm/index.html)
 - MASS (https://cran.r-project.org/web/packages/MASS/index.html)
